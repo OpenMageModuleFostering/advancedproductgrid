@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>AdvancedProductGrid</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Extension which allow to add Category drop down and Thumbnail image in Admin Product grid</summary>
+    <description>Extension which allow to add Category drop down and Thumbnail image in Admin Product grid</description>
+    <notes>Initial Release</notes>
+    <authors><author><name>Cartin24</name><user>Cartin24</user><email>developer@cartin24.com</email></author></authors>
+    <date>2015-07-15</date>
+    <time>11:30:07</time>
+    <contents><target name="magecommunity"><dir name="Cartin24"><dir name="Productgrid"><dir name="Block"><dir name="Adminhtml"><dir name="Catalog"><dir name="Product"><file name="Grid.php" hash="cffbcffa69ae93c30789bd4c00ec79c6"/><dir name="Render"><file name="Category.php" hash="ad0daa6e0e2e032924b72870e92531b4"/><file name="Thumbnail.php" hash="617d72418c8250621eb6e0846303af9a"/></dir></dir></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="5b06262b5f7fc0a4176b08264853a202"/></dir><dir name="Model"><dir name="Source"><file name="Category.php" hash="8cf9a92cdc84bed5cd8dc744428307bd"/></dir></dir><dir name="etc"><file name="config.xml" hash="a3ba4530cd7685f1eab9eae6f0da1227"/><file name="system.xml" hash="c1e8b1ec64a1d978cf628f90440f7cce"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Cartin24_Productgrid.xml" hash="bd201692af42739672618d0a71408924"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

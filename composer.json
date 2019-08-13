@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/AdvancedProductGrid",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Extension which allow to add Category drop down and Thumbnail image in Admin Product grid",
+    "authors": [
+    {
+        "name": "Cartin24",
+        "email": "developer@cartin24.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
