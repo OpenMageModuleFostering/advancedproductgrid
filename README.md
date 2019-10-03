@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Extension which allow to add Category drop down and Thumbnail image in Admin Product grid
